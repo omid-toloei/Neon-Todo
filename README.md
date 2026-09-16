@@ -15,3 +15,11 @@ Built with vanilla HTML, CSS & JavaScript — no frameworks, no dependencies.
 ## Run
 
 Just open `index.html` in your browser.
+
+## Demo
+
+<div>
+  <img src="/assets/demo/1.png" alt="Main demo image" />
+  <br />
+  <img src="/assets/demo/2.png" alt="Task hover demo image" />
+</div>
