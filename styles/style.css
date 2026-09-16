@@ -1,6 +1,6 @@
 @font-face {
   font-family: "irancell";
-  src: url("../fonts/irancell.ttf") format("truetype");
+  src: url("../assets/fonts/irancell.ttf") format("truetype");
   unicode-range: U+0600-06FF; /* use this font just for Persian & Arabic language */
 }
 
