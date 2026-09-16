@@ -1,4 +1,4 @@
-# 📝neon-todo
+# 📝Neon-Todo
 
 A minimal dark-themed to-do list app with neon green accents.
 
@@ -11,7 +11,6 @@ Built with vanilla HTML, CSS & JavaScript — no frameworks, no dependencies.
 - Live unfinished task counter
 - Responsive
 - Persian/Arabic font support (IranCell)
-- using CSS variables
 
 ## Run
 
