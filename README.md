@@ -21,5 +21,6 @@ Just open `index.html` in your browser.
 <div>
   <img src="/assets/demo/1.png" alt="Main demo image" />
   <br />
+  <br />
   <img src="/assets/demo/2.png" alt="Task hover demo image" />
 </div>
